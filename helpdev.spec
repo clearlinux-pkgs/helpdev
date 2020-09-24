@@ -4,7 +4,7 @@
 #
 Name     : helpdev
 Version  : 0.7.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/16/8d/1909747368fef0cda0af1c570be578deff1f4fc3512c1e308c8fff73f359/helpdev-0.7.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/16/8d/1909747368fef0cda0af1c570be578deff1f4fc3512c1e308c8fff73f359/helpdev-0.7.1.tar.gz
 Summary  : HelpDev - Extracts information about the Python environment easily.
